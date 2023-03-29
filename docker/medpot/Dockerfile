@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:3.16
 #
 # Setup apk
 RUN apk -U --no-cache add \
